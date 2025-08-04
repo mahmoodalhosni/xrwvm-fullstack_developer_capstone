@@ -1,4 +1,4 @@
-version: '3.9'
+# version: '3.9' --coz the version is now obsolete
 
 services:
   # Mongodb service
